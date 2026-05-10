@@ -1,4 +1,3 @@
-以下是英文版 `README.md`，直接用于 GitHub 仓库：
 
 ```markdown
 <h1 align="center">⚡ CodeForge</h1>
